@@ -1,2 +1,2 @@
 # first-repo
-i am best
+i worked best at creating first repo
